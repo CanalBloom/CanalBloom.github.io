@@ -75,8 +75,11 @@
     border-bottom: 1px solid #9f9fa1;;
     padding-bottom: 2.5vh;
 }
+.btn-hide {
+    display: none;
+}
 
-.btn-expand {
+.btn-expand, .btn-hide {
     color: #793df5;
     font-weight: bold;
     font-size: 32px;
