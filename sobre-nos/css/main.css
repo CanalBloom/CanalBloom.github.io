@@ -434,12 +434,22 @@ a {
     }
 
     .summary__mobile {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 56249067d6ce09bd9953241aa4b7ca128863dffd
         padding: 3% 0;
     }
 
     .summary__mobile-about {
         padding-top: 60px;
         padding-bottom: 30px;    
+<<<<<<< HEAD
+=======
+=======
+        padding: 25% 0;
+>>>>>>> 0e9d62242a1d43eb98a35414b7f224dea09ffde7
+>>>>>>> 56249067d6ce09bd9953241aa4b7ca128863dffd
     }
 
     .subtitle-inspirations {
@@ -576,4 +586,8 @@ a {
     .img-right {
         width: 50px;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 56249067d6ce09bd9953241aa4b7ca128863dffd
